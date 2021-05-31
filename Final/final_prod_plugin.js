@@ -1,0 +1,2 @@
+// This is a Preamble
+const o="THIS IS FROM a.js FILE";function this_function_name_should_be_reserved(){for(let o=0;o<5;o++)console.warn(o)}console.log("THIS IS FROM a.js FILE"),this_function_name_should_be_reserved();
